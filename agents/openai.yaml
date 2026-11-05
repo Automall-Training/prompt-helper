@@ -1,0 +1,4 @@
+interface:
+  display_name: "Prompt Helper"
+  short_description: "Вопросы по одному → один промпт, ИИ работает сам"
+  default_prompt: "Используй $prompt-helper: задай вопросы по одному и собери автономный промпт для моей задачи в Codex."
